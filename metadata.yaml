@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
 description: A mining adventure and tale of love set in Colorado, his dynamic characters
   exemplify the rugged individuals typically found out West.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20695#The-Spirit-of-Sweetwater
 gutenberg_issued: '2007-02-27'
 gutenberg_type: Text
 identifiers:
